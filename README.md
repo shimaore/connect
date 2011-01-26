@@ -1,3 +1,5 @@
+This is my copy to add pending patches that I already submitted to the upstream.
+
 # Connect
 
 Connect is a high performance middleware framework built by the combined forces of TJ Holowaychuk ([visionmedia][]) and Tim Caswell ([creationix][]). Connect takes the familiar concepts of Ruby's [Rack](http://rack.rubyforge.org/) and applies it to the asynchronous world of [node](http://nodejs.org).
